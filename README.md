@@ -18,3 +18,6 @@ Then, run the newly created 'tetris.o' binary file.
 - **Left-Arrow**: Move Left
 - **Right-Arrow**: Move Right
 - **Down-Arrow**: Move Down, gaining 1 point
+
+### Acknowledgement
+Created using help of online tutorial: [Youtube](https://www.youtube.com/watch?v=wVYKG_ch4yM)
